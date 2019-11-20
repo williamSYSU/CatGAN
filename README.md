@@ -1,6 +1,6 @@
 # CatGAN: Category-aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation
 
-Codes will be available soon [here](https://github.com/williamSYSU/TextGAN-PyTorch).
+The paper can be viewed [here](https://arxiv.org/abs/1911.06641). Codes will be available soon [here](https://github.com/williamSYSU/TextGAN-PyTorch).
 
 ## Requirements
 
